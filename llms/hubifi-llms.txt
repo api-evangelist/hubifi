@@ -1,0 +1,34 @@
+# HubiFi
+
+> HubiFi is a revenue recognition and order-to-cash automation platform for high-volume SaaS and subscription businesses. It automates ASC 606 / IFRS 15 compliant revenue recognition, reconciliation, and daily financial close across billing, payment, and ERP systems.
+
+HubiFi is built for finance and accounting teams (Controllers, VPs of Finance, Heads of Revenue Accounting) at high-growth, high-transaction-volume SaaS companies who need GAAP-compliant, audit-ready revenue accounting without adding headcount. Customers include Cursor, ElevenLabs, Perplexity, Miro, and AllTrails.
+
+## Product
+
+- [Product Overview](https://www.hubifi.com/product-overview-hubifi): Core platform capabilities — automated revenue recognition, order-to-cash accounting, deferred revenue, contract modifications, and reporting by product/region/channel.
+- [How It Works](https://www.hubifi.com/how-it-works): Step-by-step explanation of HubiFi's implementation and data flow process.
+- [Integrations](https://www.hubifi.com/integrations-hubifi): How HubiFi connects to billing, payment, and ERP systems (Stripe, NetSuite, QuickBooks, Paddle, app stores) via bi-directional API sync.
+
+## Pricing
+
+- [Pricing](https://www.hubifi.com/pricing-hubifi): Flat-fee annual subscription tiers (Essential, Growth, Enterprise), unlimited seats, 4–6 week implementation.
+
+## Proof
+
+- [Case Studies](https://www.hubifi.com/case-studies): Customer stories from finance teams that automated revenue recognition and order-to-cash accounting with HubiFi.
+- [Cursor Case Study](https://www.hubifi.com/case-studies/cursor): How Cursor's 3-person revenue accounting team supported $4B in ARR and passed a clean Big 4 audit using HubiFi's deterministic reconciliation layer on top of Stripe.
+- [AllTrails Case Study](https://www.hubifi.com/case-studies/alltrails): How AllTrails automated Apple/Google app store revenue recognition and order-to-cash accounting with HubiFi.
+
+## Company
+
+- [About](https://www.hubifi.com/about): HubiFi's mission, team, and company background.
+
+## Resources
+
+- [App Store Commissions: ASC 606 Accounting Guide](https://www.hubifi.com/blog/accounting-for-revenue-recognition-for-asc-606): Detailed, practitioner-level guide to Apple App Store and Google Play revenue recognition, including commission structures, report limitations, and journal entries.
+- [Stripe Revenue Recognition: A Complete Guide](https://www.hubifi.com/blog/accounting-for-revenue-recognition-asc-606-stripe): Practitioner-level guide to Stripe data extraction, journal entries, and ASC 606 compliance, including Stripe-to-NetSuite integration pitfalls.
+
+## Contact
+
+- [Request a Demo](https://www.hubifi.com/get-a-personalized-demo): Book a personalized demo with the HubiFi team.

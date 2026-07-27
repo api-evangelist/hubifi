@@ -1,0 +1,39 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.hubifi.com/about
+notes: >-
+  HubiFi is a revenue-recognition automation platform (no public developer API
+  or OpenAPI). Standards asserted here are the accounting, security, and
+  compliance postures the company publishes on its own site — not derived from a
+  machine-readable spec.
+standards:
+- id: asc-606
+  name: ASC 606 Revenue Recognition
+  conforms: true
+  evidence: https://www.hubifi.com/product-overview-hubifi
+  detail: Automates GAAP-compliant ASC 606 revenue recognition and journal entries.
+- id: asc-944
+  name: ASC 944
+  conforms: true
+  evidence: https://www.hubifi.com/pricing-hubifi
+  detail: ASC 606/944 compliance listed across all pricing tiers.
+- id: ifrs-15
+  name: IFRS 15 Revenue Recognition
+  conforms: true
+  evidence: https://www.hubifi.com/llms.txt
+  detail: Platform automates ASC 606 / IFRS 15 compliant revenue recognition.
+- id: soc-1-type-ii
+  name: SOC 1 Type II
+  conforms: true
+  evidence: https://www.hubifi.com/about
+  detail: Company states it holds SOC 1 Type II certification.
+- id: soc-2-type-ii
+  name: SOC 2 Type II
+  conforms: true
+  evidence: https://www.hubifi.com/about
+  detail: Company states it holds SOC 2 Type II certification; TLS-encrypted data transmission.
+- id: nasba-cpe-sponsor
+  name: NASBA-approved CPE Sponsor
+  conforms: true
+  evidence: https://www.hubifi.com/about
+  detail: NASBA-approved continuing professional education sponsor.
